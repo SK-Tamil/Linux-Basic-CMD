@@ -1,0 +1,14 @@
+INFO Application started
+INFO Database connection successful
+INFO User login successful
+ERROR Database connection failed
+INFO User logout successful
+WARNING Disk usage is high
+ERROR API request failed
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+INFO Database connection successful
+WARNING Disk usage is high
+INFO User login successful
+ERROR API request failedINFO New user logged in
